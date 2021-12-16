@@ -12,8 +12,6 @@ def lists(full, add, remove):
 
 	Output:
 		new_list - new list, tuple
-
-	This function runs successfully in Python 3.6.8
 		
 	"""
 
